@@ -1,0 +1,21 @@
+.works-content {
+  display: flex;
+  flex-direction: column;
+  color: #000;
+  height: 120vh;
+}
+
+.project-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.project-content p {
+  text-align: center;
+  color: #727070;
+}

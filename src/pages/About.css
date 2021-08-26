@@ -1,0 +1,42 @@
+.about-content {
+  color: #727070;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px;
+  padding: 5px;
+  align-items: center;
+  margin-top: 3%;
+}
+
+h1 {
+  color: #000;
+}
+
+.info {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 40px;
+}
+
+.info hr{
+  width: 100%;
+  border-bottom: 1px solid #727070;
+  margin: 15px 0px;
+}
+
+.info i {
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+
+.pitch {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 40%;
+  height: 65vh;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 0.9rem;
+}

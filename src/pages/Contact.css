@@ -1,0 +1,42 @@
+.contact-content {
+  color: #727070;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px;
+  padding: 5px;
+  align-items: center;
+  margin-top: 3%;
+}
+
+.findme {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 60px;
+  height: 50vh;
+}
+
+.findme a {
+  font-size: 2.5rem;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #727070;
+}
+
+.emailme {
+  border: 1px solid #000;
+  padding: 25px;
+}
+
+.emailme input,
+.emailme textarea {
+  text-align: center;
+  background-color: #141414;
+}
+
+.emailme input:hover,
+.emailme textarea:hover {
+  opacity: 0.5;
+}

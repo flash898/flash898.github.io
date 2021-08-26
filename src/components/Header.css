@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-content-name {
+  color: #727070;
+  font-size: large;
+  margin: 20px;
+}
+
+.nav-content {
+  display: flex;
+}
+
+.nav-content-link {
+  color: #727070;
+  margin: 20px;
+  text-decoration: none;
+}

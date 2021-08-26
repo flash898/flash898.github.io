@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.footer-content {
+  display:flex;
+  justify-content: space-around;
+  align-items:center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #727070;
+}
+
+.footer-social {
+  margin: 10px;
+}
+
+.footer-social a {
+  font-size: 1.5rem;
+  margin-right: 10px;
+  text-decoration: none;
+  color: #727070;
+}
